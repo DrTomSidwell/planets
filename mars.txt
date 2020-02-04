@@ -2,4 +2,5 @@ Mars text
 Second line of Mars text
 Third line here
 I have added a fourth line
-Conflicting line!
+Conflicting line now added!
+What a crazy thing to do
